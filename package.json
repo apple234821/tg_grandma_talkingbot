@@ -1,0 +1,30 @@
+{
+  "name": "grandma_talkingbot",
+  "version": "1.0.0",
+  "description": "隨心使魔",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanc1027/tgfollowheartbot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "follow",
+    "heart  "
+  ],
+  "author": "Nelson Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanc1027/tgfollowheartbot/issues"
+  },
+  "homepage": "https://github.com/hanc1027/tgfollowheartbot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}

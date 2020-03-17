@@ -1,0 +1,216 @@
+// 傳文字
+{
+    "message_id": 24,
+    "from": {
+        "id": 1066377622,
+        "is_bot": false,
+        "first_name": "Juan",
+        "username": "juanyam",
+        "language_code": "zh-hant"
+    },
+    "chat": {
+        "id": 1066377622,
+        "first_name": "Juan",
+        "username": "juanyam",
+        "type": "private"
+    },
+    "date": 1582980124,
+    "text": "he~路"
+},
+// 傳貼圖
+{
+    "message_id": 26,
+    "from": {
+        "id": 1066377622,
+        "is_bot": false,
+        "first_name": "Juan",
+        "username": "juanyam",
+        "language_code": "zh-hant"
+    },
+    "chat": {
+        "id": 1066377622,
+        "first_name": "Juan",
+        "username": "juanyam",
+        "type": "private"
+    },
+    "date": 1582980288,
+    "sticker": {
+        "width": 512,
+        "height": 512,
+        "emoji": "🤢",
+        "set_name": "littlefatshibainu",
+        "is_animated": false,
+        "thumb": {
+            "file_id": "AAMCBQADGQEAAxpeWlzATKal43Gto02iKrP4k6InrAACKgEAArFdGRTt5en6qi2irUf_2jIABAEAB20AA7obAAIYBA",
+            "file_unique_id": "AQADR__aMgAEuhsAAg",
+            "file_size": 3440,
+            "width": 128,
+            "height": 128
+        },
+        "file_id": "CAACAgUAAxkBAAMaXlpcwEympeNxraNNoiqz-JOiJ6wAAioBAAKxXRkU7eXp-qotoq0YBA",
+        "file_unique_id": "AgADKgEAArFdGRQ",
+        "file_size": 15274
+    }
+}
+// 傳照片
+{
+    "message_id": 28,
+    "from": {
+        "id": 1066377622,
+        "is_bot": false,
+        "first_name": "Juan",
+        "username": "juanyam",
+        "language_code": "zh-hant"
+    },
+    "chat": {
+        "id": 1066377622,
+        "first_name": "Juan",
+        "username": "juanyam",
+        "type": "private"
+    },
+    "date": 1582980510,
+    "photo": [
+        {
+            "file_id": "AgACAgUAAxkBAAMcXlpdnq2dxihUX8zrRbQGBusI844AAiipMRt8tdlWJvo03H98xW10NxszAAQBAAMCAANtAAPymgQAARgE",
+            "file_unique_id": "AQADdDcbMwAE8poEAAE",
+            "file_size": 10806,
+            "width": 314,
+            "height": 259
+        }
+    ]
+}
+// 回覆機器人訊息
+{
+    "message_id": 35,
+    "from": {
+        "id": 1066377622,
+        "is_bot": false,
+        "first_name": "Juan",
+        "username": "juanyam",
+        "language_code": "zh-hant"
+    },
+    "chat": {
+        "id": 1066377622,
+        "first_name": "Juan",
+        "username": "juanyam",
+        "type": "private"
+    },
+    "date": 1582980944,
+    "reply_to_message": {
+        "message_id": 22,
+        "from": {
+            "id": 902363941,
+            "is_bot": true,
+            "first_name": "隨心使魔",
+            "username": "Grandma_talkingbot"
+        },
+        "chat": {
+            "id": 495732162,
+            "first_name": "Juan",
+            "username": "juanyam",
+            "type": "private"
+        },
+        "date": 1582979550,
+        "text": "Received your message"
+    },
+    "text": "好的"
+}
+// QIN傳過來
+{
+    "message_id": 37,
+    "from": {
+        "id": 949435146,
+        "is_bot": false,
+        "first_name": "Hsu",
+        "last_name": "Qin",
+        "language_code": "zh-hant"
+    },
+    "chat": {
+        "id": 949435146,
+        "first_name": "Hsu",
+        "last_name": "Qin",
+        "type": "private"
+    },
+    "date": 1582981202,
+    "text": "哈囉"
+}
+
+{
+    "message_id": 84,
+    "from": {
+        "id": 495732162,
+        "is_bot": false,
+        "first_name": "HanC",
+        "username": "hanc1027",
+        "language_code": "zh-hant"
+    },
+    "chat": {
+        "id": 495732162,
+        "first_name": "HanC",
+        "username": "hanc1027",
+        "type": "private"
+    },
+    "date": 1582985468,
+    "reply_to_message": {
+        "message_id": 81,
+        "from": {
+            "id": 902363941,
+            "is_bot": true,
+            "first_name": "隨心使魔",
+            "username": "follow_heart_bot"
+        },
+        "chat": {
+            "id": 495732162,
+            "first_name": "HanC",
+            "username": "hanc1027",
+            "type": "private"
+        },
+        "date": 1582985212,
+        "text": "ID:949435146\nUsername:@undefined\nFirst_Name:Hsu Qin\nType:private\nMessage:Hi\nSticker:undefined\nPhoto:undefined",
+        "entities": [
+            {
+                "offset": 22,
+                "length": 10,
+                "type": "mention"
+            }
+        ]
+    },
+    "text": "你好呀"
+}
+
+
+{
+    "message_id": 200,
+    "from": {
+        "id": 949435146,
+        "is_bot": false,
+        "first_name": "Hsu",
+        "last_name": "Qin",
+        "language_code": "zh-hant"
+    },
+    "chat": {
+        "id": 949435146,
+        "first_name": "Hsu",
+        "last_name": "Qin",
+        "type": "private"
+    },
+    "date": 1582991187,
+    "reply_to_message": {
+        "message_id": 196,
+        "from": {
+            "id": 902363941,
+            "is_bot": true,
+            "first_name": "隨心使魔",
+            "username": "follow_heart_bot"
+        },
+        "chat": {
+            "id": 949435146,
+            "first_name": "Hsu",
+            "last_name": "Qin",
+            "type": "private"
+        },
+        "date": 1582991018,
+        "text": "你猜啊"
+    },
+    "text": "我不想ㄚ"
+}
